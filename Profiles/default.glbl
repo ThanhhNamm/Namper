@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://login.microsoftonline.com/fa6434db-4921-4ae3-8a0c-60977ad6c33c/oauth2/v2.0/authorize?client_id=e411b2b7-38a4-4365-8c9f-e8c48ba3a871&amp;scope=openid%20email%20profile%20offline_access&amp;redirect_uri=https%3A%2F%2Fuat.mmworkspace.petronas.com%2Fauth%2Fcallback&amp;client-request-id=ebd54f5c-aa36-4cdf-8db3-413c8cf2a529&amp;response_mode=fragment&amp;response_type=code&amp;x-client-SKU=msal.js.browser&amp;x-client-VER=2.24.0&amp;client_info=1&amp;code_challenge=_LVuuL5cTu5uF-cKB2pOas4VQzeiZ3aGgzj_EJajNsY&amp;code_challenge_method=S256&amp;nonce=04492541-1027-4f35-8040-dc1915097b66&amp;state=eyJpZCI6ImMyNzE1MTJkLTkxNDctNGQ5Ny1hOWZlLWUzY2UxMWNlMDdiMSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ERBS.SSO@stag.petronas.com'</initValue>
+      <name>username_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'czFAz77ttlwjpFMzrSG9WMPvDEipHG8v'</initValue>
+      <name>password_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Stag.SSO05@stag.petronas.com'</initValue>
+      <name>username_src</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'czFAz77ttlz3loiOSTiEPw=='</initValue>
+      <name>password_src</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

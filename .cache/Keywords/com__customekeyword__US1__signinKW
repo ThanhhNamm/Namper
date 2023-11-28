@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "936116AADE720D2BFE16422181BBD12B",
+  "keywordClasses": [
+    {
+      "name": "com.customekeyword.US1.signinKW",
+      "keywordMethods": [
+        {
+          "name": "openWebsite",
+          "parameters": [
+            {
+              "name": "role",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "signinWithAccount",
+          "parameters": [
+            {
+              "name": "role",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

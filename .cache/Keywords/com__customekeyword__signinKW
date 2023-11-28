@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "5D390ED67FAAAA26B39ECA6CB10221E0",
+  "keywordClasses": [
+    {
+      "name": "com.customekeyword.signinKW",
+      "keywordMethods": [
+        {
+          "name": "openWebsite",
+          "parameters": [
+            {
+              "name": "role",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
